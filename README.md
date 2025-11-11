@@ -11,6 +11,7 @@ Understand.AI helps you think through your project thoroughly *before* writing c
 **The Problem:** Jumping straight into coding without proper planning leads to costly mistakes and technical debt.
 
 **The Solution:** Understand.AI guides you through a proven planning workflow, asking the right questions at the right time.
+<img width="1918" height="985" alt="image" src="https://github.com/user-attachments/assets/c8f3fafd-fd6e-4b76-9f66-4237e5085cf3" />
 
 ## Features ✨
 
